@@ -55,5 +55,5 @@ March 24th-31st (7 days)
   * $1,505.24 for each person
   * $9031.44 total
 
-![alt text](https://github.com/Scholars-Mate/Scrum-Trip/tickets/fight.png)
+![alt text](tickets/flight.png)
 /ticke

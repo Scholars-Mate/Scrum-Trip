@@ -28,8 +28,8 @@ Hawaii
 
 ### Trip Budget
 
-* $20,000 Total
-* $3,000 per person + $2,000 extra
+* $30,000 Total
+* $5,000 per person
 
 ### Trip Length
 

@@ -38,3 +38,8 @@ One week
 ### Trip Purpose
 
 To have fun in Hawaii
+
+## Planning Details
+
+###Trip Dates
+March 24th-31st (7 days) 

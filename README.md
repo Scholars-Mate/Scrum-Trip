@@ -41,5 +41,5 @@ To have fun in Hawaii
 
 ## Planning Details
 
-###Trip Dates
+### Trip Dates
 March 24th-31st (7 days) 

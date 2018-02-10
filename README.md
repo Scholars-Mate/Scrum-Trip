@@ -55,3 +55,14 @@ March 24th-31st (7 days)
   * $1,505.24 for each person
   * $9031.44 total
 * [tickets](tickets/flight.png)
+
+### Car information
+* Car model:Dodge G Caravan Minivan
+ 	*	7 seats
+ 	*	5 bags
+ 	*	Automatic Transmission
+
+* Able to pick up after March 24 9:00 AM and return by March 31 10:00 AM
+
+* Dealer number: (808)833-4585
+* Pickup place: 3055 N nimitz Hwy, Honolulu, HI, 96819

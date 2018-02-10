@@ -54,6 +54,4 @@ March 24th-31st (7 days)
 * Price
   * $1,505.24 for each person
   * $9031.44 total
-
-![alt text](tickets/flight.png)
-/ticke
+* [tickets](tickets/flight.png)

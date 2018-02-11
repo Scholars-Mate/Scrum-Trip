@@ -66,3 +66,8 @@ March 24th-31st (7 days)
 
 * Dealer number: (808)833-4585
 * Pickup place: 3055 N nimitz Hwy, Honolulu, HI, 96819
+
+### AirBnB
+
+We will be staying in an AirBnB rental. [See here](AirBnB.md) for more
+information.

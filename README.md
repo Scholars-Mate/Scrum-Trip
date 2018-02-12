@@ -71,3 +71,24 @@ March 24th-31st (7 days)
 
 We will be staying in an AirBnB rental. [See here](AirBnB.md) for more
 information.
+
+### Day 1 (2018/3/24)
+#### [Key Words: Flight day](tickets/flight.png)
+* 3:00 pm depart from MCI
+* 9:46 pm arrive at HNL
+* Pickup the rental van at the airport
+* Check in the AirBnB
+
+### Day 2 (2018/3/25)
+#### [Key Words: Snorkeling and Ziplining](tickets/snorkeling_and_zipline.png)
+* 7:00 AM	Breakfast in AirBnB House
+* 8:00 AM	Heading to Hanauma Bay
+* 8:30 AM	Snorkeling
+* Have some food on the beach
+* 2:00 PM	go to zipline 
+* 2:30 PM	start ziplining
+* 5:00 PM	Go for Dinner
+* 8:00 PM	Go back to hotel
+
+
+

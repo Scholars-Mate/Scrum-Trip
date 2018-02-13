@@ -94,10 +94,10 @@ information.
 #### Key Words: [Surfing](tickets/surfing.jpg) and[ Polynesian Culture Center trip](tickets/Polynesian_Culture_Center.jpg)
 * 7:00 AM	Breakfast in AirBnB House
 * 8:30 AM	Heading to beach
-* 9:0 AM	Surfing
-* 11:00 AM  Grabing some food and heading to Polynesian Culture Center
-* 12:00 PM Polynesian Culture Center tour
-* 6:00 PM   Dinner at Polynesian Culture Center
+* 9:00 AM	Surfing
+* 11:00 AM	Grabing some food and heading to Polynesian Culture Center
+* 12:00 PM	Polynesian Culture Center tour
+* 6:00 PM	Dinner at Polynesian Culture Center
 * 9:00 PM	Go back to hotel
 
 ### Day 4 (2018/3/27)
@@ -105,14 +105,14 @@ information.
 * 7:00 AM	Breakfast in AirBnB House
 * 8:00 AM	Heading to helicopter tour
 * 8:30 AM	Helicopter tour
-* 11:00 AM Heading to whale watching
-* 11:30 AM  Whale watching
+* 11:00 AM	Heading to whale watching
+* 11:30 AM	Whale watching
 * lunch covered
-* 2:00 PM Heading to golf court
-* 2:30 PM Playing golf
-* 4:30 PM Going to get materials for campfire BBQ party
-* 5:30 PM Heading to BBQ place
-* 6:00 PM Starting BBQ
-* 10:00 PM Finishing cleaning and going back to hotel
+* 2:00 PM	Heading to golf court
+* 2:30 PM	Playing golf
+* 4:30 PM	Going to get materials for campfire BBQ party
+* 5:30 PM	Heading to BBQ place
+* 6:00 PM	Starting BBQ
+* 10:00 PM	Finishing cleaning and going back to hotel
 
 

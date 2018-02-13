@@ -91,7 +91,7 @@ information.
 * 8:00 PM	Go back to hotel
 
 ### Day 3 (2018/3/26)
-#### Key Words: [Surfing](tickets/surfing.jpg) and[ Polynesian Culture Center trip](tickets/Polynesian_Culture_Center.jpg)
+#### Key Words: [Surfing](tickets/surfing.jpg) and [Polynesian Culture Center trip](tickets/Polynesian_Culture_Center.jpg)
 * 7:00 AM	Breakfast in AirBnB House
 * 8:30 AM	Heading to beach
 * 9:00 AM	Surfing
@@ -101,7 +101,7 @@ information.
 * 9:00 PM	Go back to hotel
 
 ### Day 4 (2018/3/27)
-#### Key Words: [Helicopter tour](tickets/heli_tour.jpg) and [whale watching](tickets/whale_watching.jpg)[golfing](tickets/golfing.jpg)
+#### Key Words: [Helicopter tour](tickets/heli_tour.jpg), [Whale watching](tickets/whale_watching.jpg), and [Golfing](tickets/golfing.jpg)
 * 7:00 AM	Breakfast in AirBnB House
 * 8:00 AM	Heading to helicopter tour
 * 8:30 AM	Helicopter tour

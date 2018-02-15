@@ -82,7 +82,7 @@ information.
 
 ### Day 2 (2018/3/25)
 #### Key Words: [Snorkeling and Ziplining](tickets/snorkeling_and_zipline.png)
-* 7:00 AM	Breakfast in AirBnB House
+* 7:00 AM	Breakfast in [McDonald's](https://www.google.com/maps/place/McDonald's/@21.2781849,-157.771918,12z/data=!4m8!1m2!2m1!1smcdonald's!3m4!1s0x0:0x7e7825a169022358!8m2!3d21.2852957!4d-157.708075)
 * 8:00 AM	Heading to Hanauma Bay
 * 8:30 AM	Snorkeling
 * Have some food in Bay Rock Cafe (in the Hanauma Bay Park)

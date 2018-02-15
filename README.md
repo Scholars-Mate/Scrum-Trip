@@ -116,3 +116,39 @@ information.
 * 10:00 PM	Finishing cleaning and going back to hotel
 
 
+### Day 5 (2018/3/28)
+#### Key Words: [sightseeing](tickets/sightseeing.jpg) and [Luau](tickets/Luau.jpg)
+* 7:00 AM	Breakfast in AirBnB House
+* 7:30 AM   Heading to sightseeing
+* 8:00 AM   Sightseeing
+*Lunch covered
+* 4:30 PM   Heading to Luau
+* 5:00 PM   Luau
+*Dinner convered
+* 7:30 PM   Going back to hotel
+
+
+### Day 6 (2018/3/29)
+#### Key Words: [skydiving](tickets/skydiving.jpg) and [windsurfing](tickets/windsurfing.jpg) and hiking
+* 7:00 AM	Breakfast in AirBnB House
+* 8:00 AM   Heading to skydiving
+* 8:30 AM   Starting skydiving
+* 10:30 AM  Going to windsurfing
+* 11:00 AM  Starting windSurfing
+* 11:30 AM  Finding something for lunch
+* 2:00 PM   Going to Pauli Lookout
+* 2:30 PM   Hiking at Pauli Lookout
+* 5:30 PM   Finding something for dinner
+* 8:30 PM   Going back to hotel
+
+
+### Day 7 (2018/3/30)
+#### Key Words: hiking
+* 7:00 AM	Breakfast in AirBnB House
+* 8:00 AM   Heading to Diamond Head
+* 8:30 AM   Hiking at Diamond Head
+* 11:30 AM  Finding something for lunch
+* 2:00 PM   Going to Pillbox Hike
+* 2:30 PM   Hiking at Pillbox Hike
+* 5:30 PM   Finding something for dinner
+* 8:30 PM   Going back to hotel

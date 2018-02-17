@@ -74,16 +74,16 @@ information.
 
 ### Day 1 (2018/3/24)
 #### [Key Words: Flight day](tickets/flight.png)
-* 3:00 pm depart from MCI
-* 9:46 pm arrive at HNL
+* 3:00 PM	Depart from MCI
+* 9:46 PM	Arrive at HNL
 * Pickup the rental van at the airport
 * Check in the AirBnB
 
 ### Day 2 (2018/3/25)
 #### [Key Words: Snorkeling and Ziplining](tickets/snorkeling_and_zipline.png)
 * 7:00 AM	Breakfast in AirBnB House
-* 8:00 AM	Heading to Hanauma Bay
-* 8:30 AM	Snorkeling
+* 8:00 AM	Head to Hanauma Bay
+* 8:30 AM	Snorkel
 * Have some food on the beach
 * 2:00 PM	go to zipline 
 * 2:30 PM	start ziplining
@@ -93,9 +93,9 @@ information.
 ### Day 3 (2018/3/26)
 #### Key Words: [Surfing](tickets/surfing.jpg) and [Polynesian Culture Center trip](tickets/Polynesian_Culture_Center.jpg)
 * 7:00 AM	Breakfast in AirBnB House
-* 8:30 AM	Heading to beach
-* 9:00 AM	Surfing
-* 11:00 AM	Grabing some food and heading to Polynesian Culture Center
+* 8:30 AM	Head to beach
+* 9:00 AM	Surf
+* 11:00 AM	Grab some food and heading to Polynesian Culture Center
 * 12:00 PM	Polynesian Culture Center tour
 * 6:00 PM	Dinner at Polynesian Culture Center
 * 9:00 PM	Go back to hotel
@@ -103,52 +103,52 @@ information.
 ### Day 4 (2018/3/27)
 #### Key Words: [Helicopter tour](tickets/heli_tour.jpg), [Whale watching](tickets/whale_watching.jpg), and [Golfing](tickets/golfing.jpg)
 * 7:00 AM	Breakfast in AirBnB House
-* 8:00 AM	Heading to helicopter tour
+* 8:00 AMHeading to helicopter tour
 * 8:30 AM	Helicopter tour
-* 11:00 AM	Heading to whale watching
+* 11:00 AM	Head to whale watching
 * 11:30 AM	Whale watching
 * lunch covered
-* 2:00 PM	Heading to golf court
-* 2:30 PM	Playing golf
+* 2:00 PM	Head to golf court
+* 2:30 PM	Play golf
 * 4:30 PM	Going to get materials for campfire BBQ party
-* 5:30 PM	Heading to BBQ place
-* 6:00 PM	Starting BBQ
-* 10:00 PM	Finishing cleaning and going back to hotel
+* 5:30 PM	Head to BBQ place
+* 6:00 PM	Start BBQ
+* 10:00 PM	Finish cleaning and going back to hotel
 
 
 ### Day 5 (2018/3/28)
 #### Key Words: [sightseeing](tickets/sightseeing.jpg) and [Luau](tickets/Luau.jpg)
 * 7:00 AM	Breakfast in AirBnB House
-* 7:30 AM   Heading to sightseeing
-* 8:00 AM   Sightseeing
+* 7:30 AM	Head to sightseeing
+* 8:00 AM	Sightseeing
 *Lunch covered
-* 4:30 PM   Heading to Luau
-* 5:00 PM   Luau
+* 4:30 PM	Head to Luau
+* 5:00 PM	Luau
 *Dinner convered
-* 7:30 PM   Going back to hotel
+* 7:30 PM	Go back to hotel
 
 
 ### Day 6 (2018/3/29)
 #### Key Words: [skydiving](tickets/skydiving.jpg) and [windsurfing](tickets/windsurfing.jpg) and hiking
 * 7:00 AM	Breakfast in AirBnB House
-* 8:00 AM   Heading to skydiving
-* 8:30 AM   Starting skydiving
-* 10:30 AM  Going to windsurfing
-* 11:00 AM  Starting windSurfing
-* 11:30 AM  Finding something for lunch
-* 2:00 PM   Going to Pauli Lookout
-* 2:30 PM   Hiking at Pauli Lookout
-* 5:30 PM   Finding something for dinner
-* 8:30 PM   Going back to hotel
+* 8:00 AM	Head to skydiving
+* 8:30 AM	Start skydiving
+* 10:30 AM	Going to windsurfing
+* 11:00 AM	Start windSurfing
+* 11:30 AM	Find something for lunch
+* 2:00 PM	Go to Pauli Lookout
+* 2:30 PM	Hike at Pauli Lookout
+* 5:30 PM	Find something for dinner
+* 8:30 PM	Go back to hotel
 
 
 ### Day 7 (2018/3/30)
 #### Key Words: hiking
-* 7:00 AM	Breakfast in AirBnB House
-* 8:00 AM   Heading to Diamond Head
-* 8:30 AM   Hiking at Diamond Head
-* 11:30 AM  Finding something for lunch
-* 2:00 PM   Going to Pillbox Hike
-* 2:30 PM   Hiking at Pillbox Hike
-* 5:30 PM   Finding something for dinner
-* 8:30 PM   Going back to hotel
+* 7:00 AM 	Breakfast in AirBnB House
+* 8:00 AM	Head to Diamond Head
+* 8:30 AM	Hike at Diamond Head
+* 11:30 AM	Find something for lunch
+* 2:00 PM	Go to Pillbox Hike
+* 2:30 PM	Hike at Pillbox Hike
+* 5:30 PM	Find something for dinner
+* 8:30 PM	Go back to hotel

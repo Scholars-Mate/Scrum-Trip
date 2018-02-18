@@ -78,4 +78,4 @@ information.
 
 ### Budget
 
-[See here](budget.md) for the budget details.
+[See here](Budget.md) for the budget details.

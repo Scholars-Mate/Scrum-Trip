@@ -61,12 +61,12 @@
 
 ### Day 6 (2018/3/29)
 
-#### Key Words: [Skydiving](tickets/skydiving.jpg), [windsurfing](tickets/windsurfing.jpg), and hiking
+#### Key Words: [Skydiving](tickets/skydiving.jpg), [canoeing](tickets/canoeing.jpg), and hiking
 * 7:00 AM	Breakfast in AirBnB House
 * 8:00 AM	Head to skydiving
 * 8:30 AM	Start skydiving
-* 10:30 AM	Going to windsurfing
-* 11:00 AM	Start windSurfing
+* 10:30 AM	Going to canoeing
+* 11:00 AM	Start canoeing
 * 11:30 AM	Lunch at L&L Hawaiian Barbebue
 * 2:00 PM	Go to Pauli Lookout
 * 2:30 PM	Hike at Pauli Lookout

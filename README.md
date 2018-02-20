@@ -80,6 +80,6 @@ information.
 
 [See here](Budget.md) for the budget details.
 
-### Agile Project Management
+## Agile Project Management
 
 [Axosoft](https://mahv87.axosoft.com/)
